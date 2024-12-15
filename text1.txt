@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 44A6-23B7
-
- Directory of C:\Users\Naveen\Desktop\test
-
-15-12-2024  03:39 PM    <DIR>          .
-15-12-2024  03:33 PM    <DIR>          ..
-15-12-2024  03:39 PM                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  146,365,620,224 bytes free
+vhwwdvbsbdb
